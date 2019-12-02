@@ -1,0 +1,97 @@
+{
+  "home": {
+    "bobSpace": {
+      "title": "BOB Specs",
+      "list": {
+        "titleDisplay": "Display",
+        "descDisplay": "4.97-inch AMOLED HD Touchscreen",
+        "titleChipset": "Chipset",
+        "descChipset": "Qualcomm Snapdragon 660 ",
+        "titleRAM": "RAM",
+        "descRAM": "6GB",
+        "titleStorage": "Storage",
+        "descStorage": "128GB (Can be expanded to 512GB)",
+        "titleCameras": "Rear Camera",
+        "descCameras": "48MP with an F/2.0 aperture",
+        "titleFrontcamera": "Front camera",
+        "descFrontcamera": "16MP with an F/2.2 aperture",
+        "titleBattery": "Battery",
+        "descBattery": "3,300mAh",
+        "titleOS": "OS",
+        "descOS": "Dual Mode - Android 9.0 and Function X",
+        "titleCharging": "Charging",
+        "descCharging": "Supports wireless",
+        "titleSensor": "Sensor",
+        "descSensor": "Fingerprint",
+        "titleSIM": "SIM",
+        "descSIM": "Dual-Nano Sim Card slots"
+      }
+    },
+    "main": {
+      "discountPre": "10%",
+      "discountPreOff": "OFF",
+      "time": "Valid from Nov 30 - Dec 14, 2019",
+      "title1": "Blok On Blok (BOB) – Innovation From Within",
+      "desc1": "BOB powered by the Function X decentralized protocol is the world’s first true blockchain phone. It enables you to take full control over your data and reclaim your data privacy. It was also recently recognized as a CES 2020 Innovation Award Honoree. Every order of BOB will come in a MOD Assembly Kit for you to build your personalized blockchain phone. ",
+      "desc3": "Estimated delivery Q1 2020",
+      "title2": "Crypto payment accepted",
+      "desc2": "Download XWallet to pre-order."
+    },
+    "button": {
+      "homepage": "Click to view more details",
+      "next": "Pre-Order Now"
+    }
+  },
+  "order": {
+    "info": {
+      "amount": {
+        "productPrice": "Subtotal",
+        "discount": "Discount",
+        "total": "Total"
+      },
+      "title": {
+        "orderInfo": "Order Info"
+      }
+    },
+    "form": {
+      "label": {
+        "fullName": "Full Name",
+        "email": "Email",
+        "confirmEmail": "Confirm Email",
+        "phoneNumber": "Phone Number (Include Country Code)"
+      },
+      "placeholder": {
+        "fullName": "",
+        "email": "",
+        "confirmEmail": "",
+        "phoneNumber": "Enter Country Code (+XX) and Number"
+      },
+      "terms": "I am aware that the shipping cost, tax and custom fees are not included in this current order and I agree to pay them once my order is ready to be delivered.",
+      "button": {
+        "submit": "Place Order",
+        "outOfStock": "Out of stock"
+      }
+    }
+  },
+  "orderConfirm": {
+    "ps": "*Shipping cost is not included. A confirmation email with your order number will be sent to you upon payment. You will be required to provide your shipping address and pay for the shipping fee once your order is ready. Estimated delivery will be in Q1 2020.",
+    "button": {
+      "pay": "Pay"
+    }
+  },
+  "error": {
+    "10001": "Email addresses are not matching",
+    "10002": "This field cannot be empty",
+    "10003": "Incorrect format of Email address",
+    "10004": "Payment unsuccessful",
+    "10005": "Authorization unsuccessful",
+    "10006": "Payment timed out"
+  },
+  "success": {
+    "confirm": {
+      "title": "Payment successful",
+      "desc": "A confirmation email has been sent to you. Please check the order details in your mailbox.",
+      "btn": "OK"
+    }
+  }
+}

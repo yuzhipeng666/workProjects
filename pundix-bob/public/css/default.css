@@ -1,0 +1,70 @@
+html {
+  /* min-height: 100vh; */
+  font-family: 'PingFang SC', 'Droid Sans';
+  /* 抗锯齿 */
+  -webkit-font-smoothing: antialiased; 
+  /* Rem */
+  font-size: calc(100vw / 375 * 100);
+  /* 取消选中文字 */
+  user-select: none;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, figure, ul {
+  margin: 0;
+}
+
+ul, button {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  color: inherit;
+}
+
+button, input, select {
+  outline: none;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+div {
+  font-size: initial;
+}
+
+button {
+  border: none;
+  font-size: .18rem;
+}
+
+button.submit {
+  color: #ffffff;
+  background-color: #FF9B05;
+  width: 100%;
+  height: 100%;
+}
+
+button:disabled {
+  background-color: #c8c8c8;
+}
+
+/* 折扣价 */
+/* .amount .sale::after {
+  content: attr(data-sale);
+  font-size: 0.1rem;
+  color: #ff9b05;
+  border: .5px solid #ff9b05;
+  border-radius: 0.02rem;
+  padding: 0 0.04rem;
+  vertical-align: top;
+} */
