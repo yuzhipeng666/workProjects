@@ -1,0 +1,87 @@
+html {
+  /* min-height: 100vh; */
+  font-family: 'PingFang SC', 'Droid Sans';
+  /* 抗锯齿 */
+  -webkit-font-smoothing: antialiased; 
+  /* Rem */
+  font-size: calc(100vw / 375 * 100);
+  /* 取消选中文字 */
+  -webkit-user-select: none;
+
+  background-color: #F5F7FC;
+}
+
+html, body {
+  -webkit-overflow-scrolling: touch;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, figure, ul {
+  margin: 0;
+}
+
+ul, button {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a, button {
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  color: inherit;
+}
+
+button, input, select {
+  outline: none;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+div, main {
+  font-size: initial;
+}
+
+button {
+  width: 100%;
+  height: .4rem;
+  font-size: .14rem;
+  font-weight: 600;
+  border-radius: .02rem;
+  border: none;
+}
+
+button.submit {
+  background-color: #FF8717;
+  color: #FFFFFF;
+}
+
+button.link {
+  background-color: #FFFFFF;
+  font-weight: normal;
+}
+
+button:disabled {
+  background-color: #C8C8C8;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-align-center {
+  display: flex;
+  align-items: center;
+}
+
+.main-padding {
+  padding: .16rem;
+}

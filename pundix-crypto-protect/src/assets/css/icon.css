@@ -1,0 +1,94 @@
+
+
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.icon-issue {
+  width: 0.12rem;
+  height: 0.12rem;
+  background-image: url(../icon/ic_issue.png);
+}
+
+.icon-change {
+  width: 0.1rem;
+  height: 0.1rem;
+  background-image: url(../icon/ic_change@svg.svg);
+}
+
+.icon-detail {
+  width: 0.06rem;
+  height: 0.06rem;
+  background-image: url(../icon/ic_detail@svg.svg);
+  background-size: contain;
+}
+
+.icon-calender {
+  width: .1rem;
+  height: .1rem;
+  background-image: url(../icon/ic_calender@svg.svg);
+}
+
+.icon-exchange {
+  width: .22rem;
+  height: .22rem;
+  background-image: url(../icon/ic_exchange@svg.svg);
+}
+
+.icon-countdown {
+  width: .14rem;
+  height: .14rem;
+  background-image: url(../icon/ic_countdown@svg.svg);
+}
+
+.icon-checkbox-nor, 
+.icon-checkbox-sel {
+  width: .16rem;
+  height: .16rem;
+}
+
+.icon-checkbox-nor {
+  background-image: url(../icon/ic_box_nor@svg.svg);
+}
+
+.icon-checkbox-sel {
+  background-image: url(../icon/ic_box_sel@svg.svg);
+}
+
+.icon-question {
+  width: .28rem;
+  height: .28rem;
+  background-image: url(../icon/ic_question@svg.svg);
+}
+
+.icon-home-nor, 
+.icon-home-sel, 
+.icon-plans-nor, 
+.icon-plans-sel, 
+.icon-assets-nor, 
+.icon-assets-sel {
+  width: 0.2rem;
+  height: 0.2rem;
+}
+
+.icon-home-nor{
+  background-image: url(../icon/ic_home_nor@svg.svg);
+}
+.icon-home-sel{
+  background-image: url(../icon/ic_home_sel@svg.svg);
+}
+.icon-plans-nor{
+  background-image: url(../icon/ic_plans_nor@svg.svg);
+}
+.icon-plans-sel{
+  background-image: url(../icon/ic_plans_sel@svg.svg);
+}
+.icon-assets-nor{
+  background-image: url(../icon/ic_assets_nor@svg.svg);
+}
+.icon-assets-sel {
+  background-image: url(../icon/ic_assets_sel@svg.svg);
+}

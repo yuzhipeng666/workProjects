@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>ic_box_sel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buying_余额充值" transform="translate(-22.000000, -724.000000)">
+            <g id="编组-8" transform="translate(17.000000, 260.000000)">
+                <g id="编组-5" transform="translate(6.000000, 459.000000)">
+                    <g id="ic_box_sel" transform="translate(0.000000, 6.000000)">
+                        <rect stroke="#FF8717" fill="#FF8717" x="0" y="0" width="12" height="12" rx="2"></rect>
+                        <polyline id="路径-3" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="2.99467719 5.52818408 5.32826148 7.86176837 9.74942593 3.44060393"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

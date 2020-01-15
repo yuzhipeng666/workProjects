@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="69px" viewBox="0 0 69 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>ic_x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF9E9E" offset="0%"></stop>
+            <stop stop-color="#FE6F6F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buying_confirmed失败" transform="translate(-153.000000, -142.000000)">
+            <g id="ic_x" transform="translate(153.000000, 142.000000)">
+                <circle id="椭圆形备份-3" fill="url(#linearGradient-1)" cx="34.5" cy="34.5" r="34.5"></circle>
+                <g id="编组" transform="translate(34.500000, 34.883671) rotate(-315.000000) translate(-34.500000, -34.883671) translate(22.000000, 22.383671)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+                    <line x1="4" y1="20.7852936" x2="21.3401403" y2="3.6163287" id="路径-4" transform="translate(12.670070, 12.200811) rotate(-315.000000) translate(-12.670070, -12.200811) "></line>
+                    <line x1="12.7305898" y1="1.13686838e-13" x2="12.6095505" y2="24.4016223" id="路径-4备份"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

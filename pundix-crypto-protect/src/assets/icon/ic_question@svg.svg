@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>ic_question@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="简化版本" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-持仓" transform="translate(-40.000000, -666.000000)">
+            <g id="编组-7" transform="translate(17.000000, 634.000000)">
+                <g id="编组-6" transform="translate(0.000000, 19.000000)">
+                    <g id="ic_question" transform="translate(23.340193, 13.976806)">
+                        <circle id="椭圆形" fill="#4A56B9" cx="14" cy="14" r="14"></circle>
+                        <circle id="椭圆形备份-3" stroke="#ffffff" fill="#4A56B9" cx="14" cy="14" r="12"></circle>
+                        <g id="编组" transform="translate(11.275171, 9.116860)">
+                            <path d="M0.00014,2.69052 C0.00014,1.20442 1.20484,-0.00028 2.69024,-0.00028 C4.17634,-0.00028 5.38104,1.20442 5.38104,2.69052 C5.38104,4.17662 4.17634,5.38062 2.69024,5.38062 L2.69024,7.13762" id="Stroke-1" stroke="#FFFFFF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M3.82963,9.43145 C3.82963,9.96345 3.39843,10.39465 2.86643,10.39465 C2.33443,10.39465 1.90323,9.96345 1.90323,9.43145 C1.90323,8.89945 2.33443,8.46825 2.86643,8.46825 C3.39843,8.46825 3.82963,8.89945 3.82963,9.43145" id="Fill-3" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

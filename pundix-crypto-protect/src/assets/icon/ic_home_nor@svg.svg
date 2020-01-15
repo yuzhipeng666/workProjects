@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>ic_home_nor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_home_nor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <polygon id="Fill-1" opacity="0" points="0 20 20 20 20 0 0 0"></polygon>
+            <path d="M10.3,2.1 L17.8,7.725 C17.9259029,7.81942719 18,7.96762135 18,8.125 L18,17.5 C18,17.7761424 17.7761424,18 17.5,18 L12.828,18 L12.828,13.5 C12.828,13.2238576 12.6041424,13 12.328,13 L7.673,13 C7.39685763,13 7.173,13.2238576 7.173,13.5 L7.173,18 L2.5,18 C2.22385763,18 2,17.7761424 2,17.5 L2,8.125 C2,7.96762135 2.07409708,7.81942719 2.2,7.725 L9.7,2.1 C9.87777778,1.96666667 10.1222222,1.96666667 10.3,2.1 Z M11.828,14 L11.828,18 L8.173,18 L8.173,14 L11.828,14 Z" id="形状结合" fill="#BABDD0" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

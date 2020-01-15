@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>detail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="detail" transform="translate(-5.000000, -3.000000)" stroke="#B3B3B3">
+            <polyline id="路径" transform="translate(6.000000, 7.000000) rotate(-315.000000) translate(-6.000000, -7.000000) " points="4 5 8 5 8 9"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,368 @@
+{
+  "versionBtn": {
+    "lite": "Lite",
+    "pro": "Pro"
+  },
+  "nav": {
+    "home": "Overview",
+    "plans": "Plans",
+    "assets": "Assets"
+  },
+  "home": {
+    "totalAssets": {
+      "title": {
+        "total": "Total assets",
+        "available": "Available:"
+      }
+    },
+    "planTitle": "Protect Available",
+    "planIssue": {
+      "0": "1. You could choose to have NPXS or BTC during the Option time, and will get NPXS when you not make any decision.",
+      "1": "2. Buying NPXS with BTC during the sales time and at least with 1 share.",
+      "2": "3. You will have to wait after you bought this protect and have to wait until the unfrozen time  to choose.",
+      "3": "4. The price is relatively the same as the market."
+    },
+    "planList": {
+      "sold": "sold",
+      "price": "Price for 1 Share",
+      "coinPrice": "Price for 1 {earnUnit}",
+      "per": "Per Share",
+      "time": "Unfrozen Time",
+      "day": "{n} day | {n} days",
+      "hours": "{n} hour | {n} hours",
+      "minus": "{n} minu | {n} minus",
+      "seconds": "{n}s",
+      "buyBtn": "Buy",
+      "waitBtn": "Waiting"
+    },
+    "history": "History",
+    "lite": {
+      "lastTime": {
+        "0": "Returns last time: {rate}",
+        "1": "Protected last time: {rate}"
+      }
+    }
+  },
+  "buy": {
+    "currency": {
+      "progress": {
+        "before": "Buy it Today",
+        "after": "Unfrozen day",
+        "end": "Finish Day"
+      }
+    },
+    "quantity": {
+      "title": "Purchase Protect",
+      "label": {
+        "shareWant": "Share you want",
+        "shareGet": "{currency} to Get",
+        "payment": "Payment",
+        "price": "Price",
+        "cost": "Cost",
+        "fee": "Fee",
+        "total": "Total",
+        "balance": "Balance: {amount} {currency}"
+      },
+      "value": {
+        "shareGet": "{amount} {currency}/Share"
+      },
+      "btn": {
+        "max": "Max={share}",
+        "deposit": "Deposit"
+      }
+    },
+    "help": "Need help?",
+    "terms": {
+      "all": "I agree to the {terms}, I understand and assume the risk of investment",
+      "link": "Terms of Use"
+    },
+    "bottom": {
+      "btn": "Pay"
+    },
+    "lite": {
+      "buying": {
+        "title": "Buying"
+      },
+      "preview": {
+        "title": "Preview",
+        "protect": "Protect of {getUnit}",
+        "typePs": {
+          "0": "If the Price less than {amount} {buyUnit}/{getUnit}",
+          "1": "If the Price no less than {amount} {buyUnit}/{getUnit}"
+        },
+        "type": {
+          "0": "Return {unit}",
+          "1": "Get {unit}"
+        },
+        "ps": "Crypto Boom automatically makes you get the more valuable one({buyUnit} or {getUnit}) based on the price."
+      },
+      "payment": {
+        "title": "Payment",
+        "label": {
+          "costPrice": "Cost Price",
+          "fee": "Fee ({fee}%)",
+          "total": "Total"
+        }
+      }
+    }
+  },
+  "myPlans": {
+    "menusList": {
+      "progress": "In progress",
+      "finished": "Finished"
+    },
+    "planLists": {
+      "title": {
+        "floating": {
+          "0": "Floating",
+          "1": "Protected",
+          "2": "Profit"
+        },
+        "have": "{unit} you have",
+        "paid": "{unit} you paid"
+      },
+      "status": {
+        "0": "Frozen",
+        "1": "Open",
+        "2": "Exercised",
+        "3": "In liquidation",
+        "4": "Finished"
+      },
+      "progress": {
+        "before": "Bought",
+        "after": "Unfrozen day"
+      },
+      "timeExercise": {
+        "can": "Before you can Exercise {time}",
+        "have": "Before you have to Exercise {time}",
+        "chosen": "You have chosen {other}"
+      }
+    },
+    "lite": {
+      "type": {
+        "0": "Protected",
+        "1": "Profit"
+      },
+      "activeText": "Prior",
+      "tips": {
+        "0": "We suggest you choose {unit} in a more profitable way.",
+        "1": "We suggest you to choose {unit} and earns more.",
+        "2": "Your {unit} have been returned.",
+        "3": "You have chosen the {unit}."
+      }
+    }
+  },
+  "myPlansDetail": {
+    "title": "Detail",
+    "position": {
+      "title": "Position",
+      "label": {
+        "status": "Status",
+        "have": "{unit} you have",
+        "paid": "{unit} you paid"
+      },
+      "status": {
+        "0": "Frozen",
+        "1": "Open",
+        "2": "Exercised",
+        "3": "In liquidation",
+        "4": "Finished"
+      }
+    },
+    "preview": {
+      "title": "Preview",
+      "titleProtect": {
+        "0": "Wait to Exercise",
+        "1": "Choose to Exercise",
+        "2": "Exercised",
+        "3": "Finished",
+        "4": "Finished"
+      },
+      "label": {
+        "time": {
+          "0": "Before you unfrozen",
+          "1": "Before you have to exercise",
+          "2": "Exercised time"
+        },
+        "floating": {
+          "0": "Floating",
+          "1": "Protected",
+          "2": "Profit"
+        },
+        "bought": "Price you bought ({earnUnit}/{investUnit})",
+        "currentPrice": "Current Price ({earnUnit}/{investUnit})",
+        "finished": "Price you finished ({earnUnit}/{investUnit})"
+      },
+      "radio": {
+        "protected": "Protected",
+        "profit": "Profit"
+      }
+    },
+    "exercise": {
+      "title": "Exercise",
+      "tips": "Tips",
+      "tipsList": {
+        "0": "1. Whatever you choose, you will get your option immediately.",
+        "1": "2. You will stay unchanged and get your NPXS when you not exercise after the countdown."
+      }
+    }
+  },
+  "myAssets": {
+    "assetsDetail": {
+      "title": "Assets Detail",
+      "myPlan": "My Plan"
+    },
+    "transactionHistory": {
+      "title": "Transaction History",
+      "list": {
+        "productType": {
+          "0": "Protect"
+        },
+        "actionType": {
+          "7": "Withdraw",
+          "9": "Deposit",
+          "10": "Cost",
+          "11": "Fee",
+          "12": "Finish",
+          "13": "Exercise"
+        }
+      }
+    }
+  },
+  "myAssetsDetail": {
+    "balance": "Balance",
+    "available": "Available for Withdrawal",
+    "toExercise": "To exercise in Protect",
+    "btn": {
+      "withdrawal": "Withdrawal",
+      "deposit": "Deposit"
+    }
+  },
+  "success": {
+    "buy": {
+      "title": "You got the Option successfully!",
+      "option": "Option:",
+      "issues": {
+        "title": "Ways to Exercise:",
+        "issue": {
+          "0": "Waiting for unfrozen and nothing has to worry",
+          "1": "Choosing to have {earnUnit} or {investUnit} in a profitable way in any time you want during the Exercise Time between {exerciseStartDt} to {exerciseEndDt}",
+          "2": "Be free of this option and enjoy your return"
+        }
+      }
+    },
+    "button": {
+      "checkMyAssets": "Check My Assets",
+      "checkMyPlans": "Check My Plans",
+      "buyAgain": "Buy Again",
+      "startBuy": "Start to buy",
+      "quitOption": "Quit option"
+    },
+    "confirming": "Confirming...",
+    "fail": "Failed, You can check Assets for the details.",
+    "assets": {
+      "deposit": "You Deposited {unit} Successfully.",
+      "withdraw": "You Withdrew {unit} Successfully.",
+      "amount": "Amount:",
+      "currentBalance": "Current Balance: {amount} {unit}"
+    },
+    "exercise": {
+      "title": "You Exercised the Option Successfully",
+      "option": "Option:"
+    }
+  },
+  "common": {
+    "progress": {
+      "frozen": "Frozen",
+      "option": "Option",
+      "now": "Now"
+    },
+    "confirm": {
+      "title": {
+        "tips": "Tips",
+        "deposit": "Deposit {currency}",
+        "confirmation": "Confirmation",
+        "notice": "Notice",
+        "withdrawal": "Withdrawal {unit}",
+        "lastTime": {
+          "0": "Returns last time",
+          "1": "Protected"
+        },
+        "currentPrice": "Current Price"
+      },
+      "deposit": {
+        "placeholder": "Input the amount you want to deposit",
+        "quickFilling": "Quick Filling"
+      },
+      "withdraw": {
+        "placeholder": "Input the amount you want to withdraw",
+        "balance": "Balance"
+      },
+      "confirmation": {
+        "label": {
+          "option": "Option",
+          "total": "Total",
+          "needPay": "Need to Pay",
+          "balance": "Balance"
+        }
+      },
+      "notice": {
+        "exerciseExpiry": "Exerise Expiry",
+        "ps": "You will got the {unit} right now and unable to undo it after your confirm this exercise, or you could choose to cancel and watch it.",
+        "terms": "I know it clear what I‘m doing"
+      },
+      "lastTime": {
+        "desc": {
+          "0": "Gross Annualized Returns last time {rate} ≈ {other}",
+          "1": "You got {buyUnit} as {getUnit}/{buyUnit} did not raise. ≈ {other}"
+        },
+        "priceTime": "Price {time}",
+        "timePs": "Price of {getUnit}/{buyUnit} come from CMC in UTC+8"
+      },
+      "currentPrice": {
+        "tips": "The Current Price come from CMC at {time}",
+        "urlTips": "For more info please access: "
+      },
+      "btn": {
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "submit": "Submit",
+        "gotIt": "Got it"
+      }
+    },
+    "timeline": {
+      "title": {
+        "frozen": "Wait for unfrozen",
+        "exercise": "Choose to exercise"
+      },
+      "list": {
+        "status": {
+          "bought": "Bought",
+          "buyItNow": "Buy it now",
+          "frozen": "Start frozen",
+          "exercise": "Start Exercise",
+          "finish": "Finish"
+        }
+      }
+    },
+    "countSelector": {
+      "item": {
+        "labelItem": "Quantity",
+        "ps": "Quick filling",
+        "hotKeyMax": "Max={num}"
+      }
+    },
+    "button": {
+      "submit": "Submit"
+    }
+  },
+  "noData": {
+    "title": "No Data",
+    "ps": "Pull down to reload"
+  },
+  "issueBtnText": "Why I get this?",
+  "errMsg": {
+    "1000": "最小购买份数为1份",
+    "40001": "Invocation cancelled"
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="69px" viewBox="0 0 69 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>ic_！</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFAE48" offset="0%"></stop>
+            <stop stop-color="#FF8717" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buying_confirmed确认中" transform="translate(-153.000000, -142.000000)">
+            <g id="ic_！" transform="translate(153.000000, 142.000000)">
+                <circle id="椭圆形备份-3" fill="url(#linearGradient-1)" cx="34.5" cy="34.5" r="34.5"></circle>
+                <g id="编组" transform="translate(35.207107, 34.883671) rotate(-315.000000) translate(-35.207107, -34.883671) translate(26.207107, 25.883671)"></g>
+                <path d="M27,27 L36.6227225,36.7387326 M41.3636573,41.505703 L42.0831653,42.2543407" id="形状" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" transform="translate(34.611706, 34.690011) rotate(-315.000000) translate(-34.611706, -34.690011) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
